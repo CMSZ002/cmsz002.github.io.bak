@@ -1,6 +1,6 @@
 <h1 class="center">CMSZ001的网站</h1>
 
-> **请按快捷键Ctrl+F搜索内容**
+>**可按快捷键Ctrl+F搜索内容**
 
 * #### **网页** ####
 	- [百度](https://www.baidu.com)
