@@ -28,6 +28,26 @@
       title="pure"
       disabled
     />
+    <style>
+      nav.app-nav li ul {
+        min-width: 100px;
+      }
+
+      #carbonads {
+        box-shadow: none !important;
+        width: auto !important;
+      }
+    </style>
+    <script>
+      (function () {
+        const lang = location.hash.match(/#\/(de-de|es|ru-ru|zh-cn)\//);
+
+        // Set html "lang" attribute based on URL
+        if (lang) {
+          document.documentElement.setAttribute('lang', lang[1]);
+        }
+      })();
+    </script>
   </head>
   <body>
     <div id="app">欢迎查看CMSZ001的网站<br>正在加载中······</div>
