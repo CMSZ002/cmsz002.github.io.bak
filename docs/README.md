@@ -5,6 +5,10 @@
 
 <hr>
 
+<div class="input-group">
+	<input type="text" placeholder="输入内容">
+    <button>提交</button>
+
 * #### **网页** ####
 	* [百度](https://www.baidu.com)
 	* [必应](https://bing.com)
