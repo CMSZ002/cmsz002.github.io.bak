@@ -8,6 +8,7 @@
 * #### **网页** ####
 	* [百度](https://www.baidu.com)
 	* [必应](https://bing.com)
+ 	* [Windows 12网页版](https://tjy-gitnub.github.io/win12/desktop.html)
 	* [Android In React（安卓网页版）](https://android.blueedge.me)
 	* [中小学教材电子版](https://jc.pep.com.cn/)
 
