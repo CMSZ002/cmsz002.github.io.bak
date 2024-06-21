@@ -22,8 +22,7 @@
 
 ### 英语周末作业 ###
 1. 完成复习卷M3-M6内容 
-2. 完成白卷期末复习卷作文和听力部分([听力请下载]（https://cmsz.lanzoul.com/iK7ik22d0mpa)
-密码:hw），周日看群自行订正 
+2. 完成白卷期末复习卷作文和听力部分[文件](https://i-020.wwentua.com:446/06212100187092710bb/2024/06/21/77fd0ee8e88c835a2a4a3de533a80ee9.mp3?st=FrEMNN2dlhTtltD3GBvXBA&e=1718977590&b=A3kN6AGlV8RW5FagCs4H5ADcANRQeAMoAGQO5lHvUuQDtlnjUPdYuQfqBdhV4A6MBN0NfFFgU21WKAniBZ5QzQO3DZEBqld8Vm5WcApp&fi=187092710&pid=120-230-156-61&up=2&mp=1&co=0)，周日看群自行订正 
 3. 背诵M1-M6单词短语（参考高分突破），下周抽查
 
 <hr>
