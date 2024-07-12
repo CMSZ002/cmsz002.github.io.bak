@@ -9,7 +9,7 @@
 ### 语文暑假作业 ###
 <img src="https://docsify.cmsz001.top/#/other/_image/21c.jpg" alt="语文作业" style="zoom: 50%;" />
 
->古诗  [56](_image/56.jpg) [57](_image/57.jpg) [58](_image/58.jpg) [59](_image/59.jpg) [60](_image/60.jpg)
+>古诗  [56](#/other/_image/56.jpg) [57](#/other/_image/57.jpg) [58](#/other/_image/58.jpg) [59](#/other/_image/59.jpg) [60](_image/60.jpg)
 
 <hr>
 
