@@ -7,9 +7,13 @@
 <hr>
 
 ### 语文暑假作业 ###
-<img src="https://docsify.cmsz001.top/#/other/_image/21c.jpg" alt="语文作业" style="zoom: 50%;" />
+<img src="https://docsify.cmsz001.top/other/_image/21c.jpg" alt="语文作业" style="zoom: 50%;" />
 
->古诗  [56](#/other/_image/56.jpg) [57](#/other/_image/57.jpg) [58](#/other/_image/58.jpg) [59](#/other/_image/59.jpg) [60](_image/60.jpg)
+>古诗  [56](https://docsify.cmsz001.top/other/_image/56.jpg)
+>[57](https://docsify.cmsz001.top/other/_image/57.jpg)
+>[58](https://docsify.cmsz001.top/other/_image/58.jpg)
+>[59](https://docsify.cmsz001.top/other/_image/59.jpg)
+>[60](https://docsify.cmsz001.top/other/_image/60.jpg)
 
 <hr>
 
@@ -59,8 +63,8 @@
 ### 生物暑假作业 ###
 1. 必做：绘制七下前六章的思维导图，每个单元做一章
 	>7.20-7.27绘制第一章、7.28-8.3绘制第二章、8.4-8.10绘制第三章、8.11-8.17绘制第四章、8.18-8.24绘制第五章、8.25-8.31绘制第六章  
-	用A4纸，写上班别、姓名、学号，六张订一起，开学交进行评比；  
-	有时间的同学预习八上剩下知识点。
+	>用A4纸，写上班别、姓名、学号，六张订一起，开学交进行评比；  
+	>有时间的同学预习八上剩下知识点。
 2. 课外实践作业3选1，必须认真完成
 	1. 亲自去家附近的菜市场，认识不同的生物（可阅读八年级的书籍并进行分类）和观察是否有“三无产品”，最后把所看的写下来，字数100字左右；
 	2. 阅读一本与生物相关的书籍，例如《物种起源》、《生物学的故事》、《自私的基因》等，写一篇300字的读后感；
